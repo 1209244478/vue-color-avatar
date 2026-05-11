@@ -270,7 +270,7 @@ async function generateMultiple(count = 5 * 6) {
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .main {
   width: 100%;

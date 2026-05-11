@@ -87,7 +87,7 @@ onUnmounted(() => {
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .code-box {
   $code-header-height: 4rem;
@@ -203,7 +203,7 @@ onUnmounted(() => {
 </style>
 
 <style lang="scss">
-@use 'src/styles/var';
+
 
 .code-content {
   display: block;

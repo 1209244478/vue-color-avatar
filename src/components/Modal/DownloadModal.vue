@@ -37,7 +37,7 @@ const { t } = useI18n()
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .download-modal-wrapper {
   position: fixed;

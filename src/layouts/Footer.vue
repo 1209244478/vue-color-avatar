@@ -35,7 +35,7 @@ function switchLocale() {
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .footer {
   display: flex;

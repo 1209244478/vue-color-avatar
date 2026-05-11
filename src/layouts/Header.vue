@@ -34,7 +34,7 @@ import { recordEvent } from '@/utils/ga'
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .header {
   display: flex;

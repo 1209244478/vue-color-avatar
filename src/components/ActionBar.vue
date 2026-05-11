@@ -62,7 +62,7 @@ const actions = computed(() => [
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .action-menu {
   display: flex;

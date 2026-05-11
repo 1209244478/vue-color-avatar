@@ -137,7 +137,7 @@ async function make() {
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .container {
   position: absolute;

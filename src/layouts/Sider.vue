@@ -16,7 +16,7 @@ const { isCollapsed, openSider, closeSider } = useSider()
 </script>
 
 <style lang="scss" scoped>
-@use 'src/styles/var';
+
 
 .sider {
   position: fixed;
