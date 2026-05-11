@@ -2,6 +2,7 @@
   "name": "vue-color-avatar",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "license": "MIT",
   "author": "LeoKu<leokudev@gmail.com> (https://leoku.top)",
   "scripts": {
@@ -15,6 +16,7 @@
     "lint:style": "stylelint \"src/**/*.{css,scss,vue}\"",
     "lint:ts": "tsc --noEmit --skipLibCheck",
     "preview": "vite preview",
+    "deploy": "pnpm run build && wrangler deploy",
     "test": "jest"
   },
   "dependencies": {
